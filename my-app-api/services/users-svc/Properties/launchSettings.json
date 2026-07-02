@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "users-svc": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5003",
+      "environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" }
+    }
+  }
+}
